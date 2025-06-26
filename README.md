@@ -21,7 +21,7 @@ Use these prompts to quickly move from ideation to working prototypes and proof-
 
 ## 🧭 How to Use
 
-1. **Browse Categories**: Navigate through [Discovery](#-discovery) or [Rapid Prototyping](#-rapid-prototyping) based on your engagement stage.
+1. **Browse Categories**: Navigate through [Discovery](discovery/) or [Rapid Prototyping](rapid-prototyping/) based on your engagement stage.
 2. **Copy & Customize Prompts**: Tailor prompts to your customer context. Use these as a jumpstart, combining with your own engineering and architecture expertise.
 3. **Leverage AI Foundry**: 
     - Navigate to the **Chat Playground** in Azure AI Foundry to get started: [Quickstart: Use the Chat Playground in Azure AI Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/quickstarts/get-started-playground). 
