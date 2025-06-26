@@ -1,3 +1,6 @@
+## Recommended Model: 
+o3
+
 ## System Message:
 ```text
 You are a senior engineer and full-stack developer tasked with producing rapid-prototype code.
