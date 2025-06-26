@@ -17,11 +17,11 @@ Use these prompts to quickly move from ideation to working prototypes and proof-
 - [**Requirements**](rapid-prototyping/1-requirements.md): Translate high-level goals into actionable functional and technical requirements.
 - [**Data Generation**](rapid-prototyping/2-data-generation.md) (Optional): Create synthetic data or test datasets to support initial build phases while customers locate or curate their data.
 - [**Code Generation**](rapid-prototyping/3-code-generation.md): Accelerate development with AI-assisted code scaffolding and logic.
-- [**Insights**](rapid-prototyping/4-insights.md): Extract learnings, summarize results, and define next steps from prototypes into a customer presentation deck.
+- [**Insights**](rapid-prototyping/4-insights-presentation.md): Extract learnings, summarize results, and define next steps from prototypes into a customer presentation deck.
 
 ## 🧭 How to Use
 
-1. **Browse Categories**: Navigate through Discovery or Rapid Prototyping based on your engagement stage.
+1. **Browse Categories**: Navigate through [Discovery](#-discovery) or [Rapid Prototyping](#-rapid-prototyping) based on your engagement stage.
 2. **Copy & Customize Prompts**: Tailor prompts to your customer context. Use these as a jumpstart, combining with your own engineering and architecture expertise.
 3. **Leverage AI Foundry**: 
     - Navigate to the **Chat Playground** in Azure AI Foundry to get started: [Quickstart: Use the Chat Playground in Azure AI Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/quickstarts/get-started-playground). 
