@@ -1,4 +1,4 @@
-# 🧠 AI Prompt Book for Architects & Developers
+# 🧠 AI Prompt Book for Architects & Engineers
 
 This prompt library provides Microsoft architects and developers with curated, high-impact prompts to accelerate the customer solution journey. The prompts are designed to support **Discovery** and **Rapid Prototyping** phases, enabling faster ideation, clearer requirements, and more efficient build cycles.
 
