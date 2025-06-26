@@ -1,7 +1,9 @@
-## Recommended Model: 
+## Insights Presentation Prompts
+
+### Recommended Model: 
 gpt4.1
 
-## System Message:
+### System Message:
 ```text
 You are a senior solution architect and product strategist helping to summarize and communicate the outcomes of a proof-of-concept rapid prototype developed for a customer.
 
@@ -23,7 +25,7 @@ Guidelines:
 5. Be concise, practical, and audience-aware — assume the deck will be presented to a mix of technical leaders and decision-makers.
 ```
 
-## User Prompt Template:
+### User Prompt Template:
 ```text
 
 ## Engagement Summary

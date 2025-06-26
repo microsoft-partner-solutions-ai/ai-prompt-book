@@ -1,5 +1,10 @@
-## System Message:
+## Research Prompts
 
-## User Prompt Template:
+### Recommended Model:
+gpt-4.1
 
-## Example Usage:
+### System Message:
+
+### User Prompt Template:
+
+### Example Usage:

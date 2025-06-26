@@ -7,9 +7,9 @@ This prompt library provides Microsoft architects and engineers with curated, hi
 ### 🔍 Discovery
 Use these prompts during early-stage engagements to explore opportunities, assess feasibility, and gather context.
 
-- [**Use Case Discovery**](discovery/use-case-discovery.md): Identify customer business drivers or pain points and map them to AI opportunities.
-- [**Research**](discovery/research.md): Perform background research to inform technical approaches and considerations.
-- [**Resources**](discovery/resources.md): Retrieve relevant documentation, Microsoft guidance, and supporting materials to share with customers.
+- [**Use Case Discovery**](discovery/1-use-case-discovery.md): Identify customer business drivers or pain points and map them to AI opportunities.
+- [**Research**](discovery/2-research.md): Perform background research to inform technical approaches and considerations.
+- [**Resources**](discovery/3-resources.md): Retrieve relevant documentation, Microsoft guidance, and supporting materials to share with customers.
 
 ### ⚙️ Rapid Prototyping 
 Use these prompts to quickly move from ideation to working prototypes and proof-of-concepts.
