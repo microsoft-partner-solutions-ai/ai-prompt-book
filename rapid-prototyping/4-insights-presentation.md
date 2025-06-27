@@ -1,7 +1,7 @@
 ## Insights Presentation Prompts
 
 ### Recommended Model: 
-gpt4.1
+gpt-4.1
 
 ### System Message:
 ```text
