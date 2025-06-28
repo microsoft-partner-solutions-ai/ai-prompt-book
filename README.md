@@ -15,12 +15,12 @@ Use these prompts during early-stage engagements to explore opportunities, asses
 Use these prompts to quickly move from ideation to working prototypes and proof-of-concepts.
 
 - [**Requirements**](rapid-prototyping/1-requirements.md): Translate high-level goals into actionable functional and technical requirements.
-- [**Data Generation**](rapid-prototyping/2-data-generation.md) (Optional): Create synthetic data or test datasets to support initial build phases while customers locate or curate their data.
-- [**Code Scaffolding**](rapid-prototyping/3-code-scaffolding.md): Accelerate development with AI-assisted code scaffolding and logic.
+- [**Data Generation**](rapid-prototyping/2-data-generation.md): Create synthetic data or test datasets to support initial build phases while customers locate or curate their data.
+- [**Code Scaffolding**](rapid-prototyping/3a-code-scaffolding.md) (Option A): Accelerate development with AI-assisted code scaffolding for use with GitHub Copilot for implementation.
+- [**Code Generation**](rapid-prototyping/3b-code-generation.md) (Option B): Generate code prototype based on requirements and data, ready for testing, debugging, and iteration.
 - [**Insights**](rapid-prototyping/4-insights-presentation.md): Extract learnings, summarize results, and define next steps from prototypes into a customer presentation deck.
 
 ## 🧭 How to Use
-
 1. **Browse Categories**: Navigate through [Discovery](discovery/) or [Rapid Prototyping](rapid-prototyping/) based on your engagement stage.
 2. **Copy & Customize Prompts**: Tailor prompts to your customer context. Use these as a jumpstart, combining with your own engineering and architecture expertise.
 3. **Leverage AI Foundry**: 
@@ -29,5 +29,4 @@ Use these prompts to quickly move from ideation to working prototypes and proof-
     - Customize the **User Prompt Templates** provided to enter into the chat session. Reference the **Example Usage** prompts as samples on what details to provide.
 
 ## 🚧 Disclaimer
-
 This library is intended for internal Microsoft use and experimentation. Prompts require context and responsible use in line with Microsoft's [Responsible AI Standard](https://www.microsoft.com/ai/responsible-ai). Outputs require human validation, testing, and code debugging.
