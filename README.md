@@ -29,6 +29,6 @@ Use these prompts to quickly move from ideation to working prototypes and proof-
     - Use the **System Messages** found in this repository for your model system message, and select **Apply changes**. 
     - Customize the **User Prompt Templates** provided to enter into the chat session. Reference the **Example Usage** prompts as samples on what details to provide.
 
-## 🚧 Disclaimer
+### Disclaimer
 This library is intended for internal Microsoft use and experimentation. Prompts require context and responsible use in line with Microsoft's [Responsible AI Standard](https://www.microsoft.com/ai/responsible-ai). Outputs require human validation, testing, and code debugging.
 `
