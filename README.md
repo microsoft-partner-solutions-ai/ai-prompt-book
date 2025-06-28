@@ -7,18 +7,19 @@ This prompt library provides Microsoft architects and engineers with curated, hi
 ### 🔍 Discovery
 Use these prompts during early-stage engagements to explore opportunities, assess feasibility, and gather context.
 
-- [**Use Case Discovery**](discovery/1-use-case-discovery.md): Identify customer business drivers or pain points and map them to AI opportunities.
-- [**Research**](discovery/2-research.md): Perform background research to inform technical approaches and considerations.
-- [**Resources**](discovery/3-resources.md): Retrieve relevant documentation, Microsoft guidance, and supporting materials to share with customers.
+- [**Use Case Ideation**](discovery/1-use-case-ideation.md): Identify customer business drivers or pain points and map them to use case opportunities.
+- [**Use Case Evaluation**](discovery/2-use-case-evaluation.md): Evaluate proposed use cases for business value, feasibility, and alignment with customer goals.
+- [**Research**](discovery/3-research.md): Perform background research to inform technical approaches and considerations.
+- [**Resources**](discovery/4-resources.md): Retrieve relevant documentation, Microsoft guidance, and supporting materials to share with customers.
 
 ### ⚙️ Rapid Prototyping 
 Use these prompts to quickly move from ideation to working prototypes and proof-of-concepts.
 
 - [**Requirements**](rapid-prototyping/1-requirements.md): Translate high-level goals into actionable functional and technical requirements.
 - [**Data Generation**](rapid-prototyping/2-data-generation.md): Create synthetic data or test datasets to support initial build phases while customers locate or curate their data.
-- [**Code Scaffolding**](rapid-prototyping/3a-code-scaffolding.md) (Option A): Accelerate development with AI-assisted code scaffolding for use with GitHub Copilot for implementation.
-- [**Code Generation**](rapid-prototyping/3b-code-generation.md) (Option B): Generate code prototype based on requirements and data, ready for testing, debugging, and iteration.
-- [**Insights**](rapid-prototyping/4-insights-presentation.md): Extract learnings, summarize results, and define next steps from prototypes into a customer presentation deck.
+- [**Code Scaffolding**](rapid-prototyping/3a-code-scaffolding.md) (Option A): Accelerate development with code scaffolding for use with GitHub Copilot for implementation.
+- [**Code Generation**](rapid-prototyping/3b-code-generation.md) (Option B): Generate code prototypes based on requirements and data, ready for testing, debugging, and iteration.
+- [**Insights**](rapid-prototyping/4-insights-presentation.md): Extract learnings, summarize results, and define next steps from sprints into a customer presentation deck.
 
 ## 🧭 How to Use
 1. **Browse Categories**: Navigate through [Discovery](discovery/) or [Rapid Prototyping](rapid-prototyping/) based on your engagement stage.
@@ -30,3 +31,4 @@ Use these prompts to quickly move from ideation to working prototypes and proof-
 
 ## 🚧 Disclaimer
 This library is intended for internal Microsoft use and experimentation. Prompts require context and responsible use in line with Microsoft's [Responsible AI Standard](https://www.microsoft.com/ai/responsible-ai). Outputs require human validation, testing, and code debugging.
+`

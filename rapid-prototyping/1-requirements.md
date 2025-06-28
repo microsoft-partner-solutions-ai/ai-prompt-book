@@ -1,4 +1,5 @@
-## Requirements Definition Prompts
+## Requirements Definition
+Prompts to translate high-level goals into actionable functional and technical requirements.
 
 ### Recommended Model: 
 gpt-4.1

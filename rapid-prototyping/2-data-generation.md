@@ -1,4 +1,5 @@
-## Data Generation Prompts
+## Data Generation
+Prompts to create synthetic data or test datasets to support initial build phases while customers locate or curate their data.
 
 ### Recommended Model: 
 gpt-4.1

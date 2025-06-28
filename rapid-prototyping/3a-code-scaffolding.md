@@ -1,4 +1,5 @@
-## Code Scaffolding Prompts
+## Code Scaffolding
+Prompts to accelerate development with code scaffolding for use with GitHub Copilot for implementation.
 
 ### Recommended Model: 
 o3

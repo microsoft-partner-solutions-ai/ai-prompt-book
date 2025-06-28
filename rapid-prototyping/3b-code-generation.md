@@ -1,4 +1,5 @@
-## Code Generation Prompts
+## Code Generation 
+Prompts to generate code prototypes based on requirements and data, ready for testing, debugging, and iteration.
 
 ### Recommended Model: 
 o3

@@ -1,4 +1,5 @@
-## Resource Curation Prompts
+## Resource Curation 
+Prompts to retrieve relevant documentation, Microsoft guidance, and supporting materials to share with customers.
 
 ### Recommended Model:
 gpt-4.1

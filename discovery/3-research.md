@@ -1,4 +1,5 @@
-## Research Prompts
+## Research 
+Prompts to perform background research to inform technical approaches and considerations.
 
 ### Recommended Model:
 gpt-4.1
