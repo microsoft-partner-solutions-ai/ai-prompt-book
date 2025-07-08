@@ -1,4 +1,6 @@
-# Prompt Book Engagement Guide
+![AI Prompt Book Engagement Guide](img/engagement_guide_img.png)
+
+# Engagement Guide
 
 This engagement guide provides a practical, step-by-step guide for architects to engage partners and customers effectively using the AI Prompt Book. 
 
@@ -30,9 +32,8 @@ Start by understanding where the customer or partner is — do they need ideatio
 
 ### Step 2: Identify and Prioritize Use Cases
 
-Generate, refine, and assess use cases using prompts.
-
-- Facilitate discussions to generate or refine potential use case opportunities.  
+During the appropriate session determined in Step 1, facilitate discussions to generate or refine potential use case opportunities leveraging these prompts:
+  
 - Use **[Use Case Ideation Prompts](discovery/1-use-case-ideation.md)** to map business drivers or pain points to concrete use cases.  
 - Use **[Use Case Evaluation Prompts](discovery/2-use-case-evaluation.md)** to assess value, feasibility, and alignment with customer & partner goals.
 
