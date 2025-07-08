@@ -34,8 +34,8 @@ Start by understanding where the customer or partner is — do they need ideatio
 
 During the appropriate session determined in Step 1, facilitate discussions to generate or refine potential use case opportunities leveraging these prompts:
   
-- Use **[Use Case Ideation Prompts](discovery/1-use-case-ideation.md)** to map business drivers or pain points to concrete use cases.  
-- Use **[Use Case Evaluation Prompts](discovery/2-use-case-evaluation.md)** to assess value, feasibility, and alignment with customer & partner goals.
+- Use **[Use Case Ideation Prompts](1-discovery/1-use-case-ideation.md)** to map business drivers or pain points to concrete use cases.  
+- Use **[Use Case Evaluation Prompts](1-discovery/2-use-case-evaluation.md)** to assess value, feasibility, and alignment with customer & partner goals.
 
 ---
 
@@ -44,8 +44,8 @@ During the appropriate session determined in Step 1, facilitate discussions to g
 Gather relevant information and resources to strengthen discussions and recommendations.
 
 - Once candidate use cases are identified, gather information to deepen understanding and support feasibility.  
-- Use **[Research Prompts](discovery/3-research.md)** to perform background research on technical considerations and approaches for selected use cases.
-- Use **[Resources Prompts](discovery/4-resources.md)** to collect relevant documentation, Microsoft guidance, and supporting materials to share with customers & partners
+- Use **[Research Prompts](1-discovery/3-research.md)** to perform background research on technical considerations and approaches for selected use cases.
+- Use **[Resources Prompts](1-discovery/4-resources.md)** to collect relevant documentation, Microsoft guidance, and supporting materials to share with customers & partners
 
 ---
 
@@ -58,14 +58,14 @@ Translate use cases into requirements, generate data, build POCs, and extract in
 ### Step 4: Define Requirements
 
 Define actionable requirements from prioritized use cases to guide development.
-- Use **[Requirements Prompts](rapid-prototyping/1-requirements.md)** to break high-level goals into clear functional and technical specs.
+- Use **[Requirements Prompts](2-rapid-prototyping/1-requirements.md)** to break high-level goals into clear functional and technical specs.
 
 ---
 
 ### Step 5: Prepare or Generate Data
 
 Determine data availability and fill gaps as needed.  
-- Use **[Data Generation Prompts](rapid-prototyping/2-data-generation.md)** to create synthetic or test data for early development phases.
+- Use **[Data Generation Prompts](2-rapid-prototyping/2-data-generation.md)** to create synthetic or test data for early development phases.
 
 ---
 
@@ -73,15 +73,15 @@ Determine data availability and fill gaps as needed.
 
 Begin development based on defined requirements and available data. 
 - Options for building prototypes:
-  - Use **[Code Scaffolding Prompts](rapid-prototyping/3a-code-scaffolding.md)** to create code scaffolding for use with GitHub Copilot, enabling rapid implementation.
-  - Use **[Code Generation Prompts](rapid-prototyping/3b-code-generation.md)** to generate complete code prototypes ready for testing and iteration.
+  - Use **[Code Scaffolding Prompts](2-rapid-prototyping/3a-code-scaffolding.md)** to create code scaffolding for use with GitHub Copilot, enabling rapid implementation.
+  - Use **[Code Generation Prompts](2-rapid-prototyping/3b-code-generation.md)** to generate complete code prototypes ready for testing and iteration.
 
 ---
 
 ### Step 7: Extract Insights
 
 After developing rapid prototype, synthesize key findings and plan next steps.  
-- Use **[Insights Prompts](rapid-prototyping/4-insights-presentation.md)** to summarize learnings, successes, and open questions for customer presentations.
+- Use **[Insights Prompts](2-rapid-prototyping/4-insights-presentation.md)** to summarize learnings, successes, and open questions for customer presentations.
 
 
 
