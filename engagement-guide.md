@@ -25,7 +25,7 @@ Start by understanding where the customer or partner is — do they need ideatio
 
 - **Options for Engagement:**
   - **Innovation Workshop** – For customers & partners with broad challenges needing big-picture ideation across Apps, Data, Analytics, and AI.
-  - **Discovery Cards Workshop** – For customers & partners needing practical AI scenarios to identify or prioritize use cases.
+  - **Discovery Cards Workshop** – For customers & partners needing practical AI scenarios to identify or prioritize use cases. Leverage the **[Discovery Cards Prompts](1-discovery/0-discovery-cards-workshop.md)** to guide discussions.
   - **Brief Discovery or Envisioning Session** – For customers & partners ready to discuss ideas or who have already identified use cases.
 
 ---
