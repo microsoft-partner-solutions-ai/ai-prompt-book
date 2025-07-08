@@ -1,3 +1,5 @@
+![AI Prompt Book Engagement Guide](img/engagement_guide_img.png)
+
 # Prompt Book Engagement Guide
 
 This engagement guide provides a practical, step-by-step guide for architects to engage partners and customers effectively using the AI Prompt Book. 
@@ -5,8 +7,6 @@ This engagement guide provides a practical, step-by-step guide for architects to
 It is designed as a modular, Lego-block-style guide so you can adapt to each engagement’s needs based on readiness and priorities. 
 
 Add, combine, skip, or reorder steps as needed.
-
-![AI Prompt Book Engagement Guide](img/engagement_guide_img.png)
 
 ---
 
