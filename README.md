@@ -12,7 +12,7 @@ Use these prompts during early-stage engagements to explore opportunities, asses
 - [**Research**](discovery/3-research.md): Perform background research to inform technical approaches and considerations.
 - [**Resources**](discovery/4-resources.md): Retrieve relevant documentation, Microsoft guidance, and supporting materials to share with customers.
 
-### ⚙️ Rapid Prototyping 
+### ⚡ Rapid Prototyping 
 Use these prompts to quickly move from ideation to working prototypes and proof-of-concepts.
 
 - [**Requirements**](rapid-prototyping/1-requirements.md): Translate high-level goals into actionable functional and technical requirements.
