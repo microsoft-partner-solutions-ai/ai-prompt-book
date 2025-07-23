@@ -10,7 +10,7 @@
 - **Flexible by design:** Not all steps apply in every engagement — tailor as needed while staying grounded in the Solution Journey Framework.
 
 
-## 1. Plan
+## Plan
 
 **Objective:** Understand the partner or customer's current state, strategic goals, and potential areas for Cloud innovation.
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 2. Envision
+## Envision
 
 **Objective:** Identify, shape, and prioritize AI use cases aligned to partner & customer goals.
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 3. Architecture Design Session (ADS)
+## Architecture Design Session (ADS)
 
 **Objective:** Collaboratively design a solution architecture with the partner or customer that aligns with the selected use case(s).
 
@@ -69,7 +69,7 @@
 
 ---
 
-## 4. Proof of Concept (POC)
+## Proof of Concept (POC)
 
 **Objective:** Build and test a lightweight prototype to validate technical feasibility and demonstrate early value.
 
@@ -91,7 +91,7 @@
 
 ---
 
-## 5. Build
+## Build
 
 **Objective:** Evolve the POC into a fuller solution with more complete features, integrations, and production-readiness.
 
@@ -112,7 +112,7 @@
 
 ---
 
-## 6. Validate
+## Validate
 
 **Objective:** Assess the solution's architecture, implementation quality, and adherence to the Well-Architected Framework. Assess SI practices for capability and readiness to deliver customer solutions.
 
@@ -132,7 +132,7 @@
 
 ---
 
-## 7. Publish
+## Publish
 
 **Objective:** Support partners (SDCs or SIs) in preparing and publishing their solutions or offers to Marketplace.
 
@@ -153,7 +153,7 @@
 
 ---
 
-## 8 Co-Sell
+## Co-Sell
 
 **Objective:** Support partners in positioning and selling their solutions to customers through Microsoft co-sell motions.
 
