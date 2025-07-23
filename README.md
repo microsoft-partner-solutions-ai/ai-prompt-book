@@ -5,10 +5,16 @@ This prompt library provides Microsoft architects and engineers with curated, hi
 ## 🧭 How to Use
 1. **Browse Categories**: Navigate through [Discovery](discovery/), [Rapid Prototyping](rapid-prototyping/), or [Delivery](delivery/) based on your engagement stage.
 2. **Copy & Customize Prompts**: Tailor prompts to your customer context. Use these as a jumpstart, combining with your own engineering and architecture expertise.
+
+### For **AI Practitioners**:
 3. **Leverage AI Foundry**: 
     - Navigate to the **Chat Playground** in Azure AI Foundry to get started: [Quickstart: Use the Chat Playground in Azure AI Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/quickstarts/get-started-playground). 
     - Use the **System Messages** found in this repository for your model system message, and select **Apply changes**. 
     - Customize the **User Prompt Templates** provided to enter into the chat session. Reference the **Example Usage** prompts as samples on what details to provide.
+
+### For **non-AI Practitioners**:
+3. **Leverage Microsoft 365 Copilot**:
+    - Combine the **System Message** with the filled out **User Prompt Template** to create a robust prompt for Microsoft 365 Copilot.
 
 ## 📁 Prompt Categories
 
@@ -31,7 +37,8 @@ Use these prompts to quickly move from ideation to working prototypes and proof-
 
 ### 🚚 Deliver
 Use these prompts to support delivering other phases of the solution journey, not captured within Discovery or Rapid Prototyping.
-
+- [**Architecture Design**](delivery/architecture-design.md): Generate Azure architecture diagrams based on use cases and constraints.
+- [**Webinar Planning**](delivery/webinar-planning.md): Create structured, engaging webinar content to support Co-Sell motions.
 
 
 ### Disclaimer
