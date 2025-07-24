@@ -191,7 +191,7 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue Journey
 
 📝 Prompts to Use:
 - "Create an Azure Marketplace-ready offer description and technical summary for this partner solution. [Provide solution details]"
-- "“Rewrite this README into a quick-start guide tailored for Azure Marketplace publication. [Provide README content]”
+- "Rewrite this README into a quick-start guide tailored for Azure Marketplace publication. [Provide README content]”
 
 ---
 
