@@ -1,7 +1,7 @@
-# GenAI-Powered Roadmap to Revenue Guide for Architects  
-_A modular playbook to accelerate every stage of the Roadmap to Revenue Journey_
+# GenAI-Powered "Roadmap to Revenue" Guide for Architects  
+_A modular playbook to accelerate every stage of the "Roadmap to Revenue Journey"_
 
-> **Purpose:** Provide a practical, plug-and-play guide for Partner Solution Architects (PSAs) to accelerate every stage of the Roadmap to Revenue Journey using GenAI. This guide highlights where to use your this repository's curated prompts and where to creatively apply GenAI to reduce time and effort across the journey.
+> **Purpose:** Provide a practical, plug-and-play guide for Partner Solution Architects (PSAs) to accelerate every stage of the "Roadmap to Revenue Journey" using GenAI. This guide highlights where to use your this repository's curated prompts and where to creatively apply GenAI to reduce time and effort across the journey.
 
 > **Audience:** Partner Solution Architects (PSAs) and other architects engaging with partners and customers.
 
@@ -13,7 +13,7 @@ _A modular playbook to accelerate every stage of the Roadmap to Revenue Journey_
 - **Flexible by design:** Not all steps apply in every engagement — tailor as needed while staying grounded in the Solution Journey Framework.
 
 
-## Accelerating Stages of the Roadmap to Revenue Journey
+## Accelerating Stages of the "Roadmap to Revenue Journey"
 ### 1. Plan
 
 **Objective:** Understand the partner or customer's current state, strategic goals, and potential areas for Cloud innovation.
