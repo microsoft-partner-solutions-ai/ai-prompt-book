@@ -35,7 +35,7 @@ Use these prompts to quickly move from ideation to working prototypes and proof-
 - [**Code Generation**](rapid-prototyping/3b-code-generation.md) (Option B): Generate code prototypes based on requirements and data, ready for testing, debugging, and iteration.
 - [**Insights**](rapid-prototyping/4-insights-presentation.md): Extract learnings, summarize results, and define next steps from sprints into a customer presentation deck.
 
-### 🚚 Deliver
+### 🚚 Delivery
 Use these prompts to support delivering other phases of the solution journey, not captured within Discovery or Rapid Prototyping.
 - [**Architecture Design**](delivery/architecture-design.md): Generate Azure architecture diagrams based on use cases and constraints.
 - [**Webinar Planning**](delivery/webinar-planning.md): Create structured, engaging webinar content to support Co-Sell motions.
