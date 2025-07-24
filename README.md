@@ -12,7 +12,7 @@ This prompt library provides Microsoft architects and engineers with curated, hi
     - Use the **System Messages** found in this repository for your model system message, and select **Apply changes**. 
     - Customize the **User Prompt Templates** provided to enter into the chat session. Reference the **Example Usage** prompts as samples on what details to provide.
 
-### For **non-AI Practitioners**:
+### For **anyone**:
 3. **Leverage Microsoft 365 Copilot**:
     - Combine the **System Message** with the filled out **User Prompt Template** to create a robust prompt for Microsoft 365 Copilot.
 
