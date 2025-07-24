@@ -1,7 +1,7 @@
-# GenAI-Powered Engagement Guide for Architects
-_A modular playbook to accelerate every stage of the Solution Journey Framework_
+# GenAI-Powered Roadmap to Revenue Guide for Architects  
+_A modular playbook to accelerate every stage of the Roadmap to Revenue Journey_
 
-> **Purpose:** Provide a practical, plug-and-play guide for Partner Solution Architects (PSAs) to accelerate every phase of the Partner Solution Journey using GenAI. This guide highlights where to use your this repository's curated prompts and where to creatively apply GenAI to reduce time and effort across the journey.
+> **Purpose:** Provide a practical, plug-and-play guide for Partner Solution Architects (PSAs) to accelerate every stage of the Roadmap to Revenue Journey using GenAI. This guide highlights where to use your this repository's curated prompts and where to creatively apply GenAI to reduce time and effort across the journey.
 
 > **Audience:** Partner Solution Architects (PSAs) and other architects engaging with partners and customers.
 
@@ -13,8 +13,8 @@ _A modular playbook to accelerate every stage of the Solution Journey Framework_
 - **Flexible by design:** Not all steps apply in every engagement — tailor as needed while staying grounded in the Solution Journey Framework.
 
 
-## Accelerating Stages of the Solution Journey
-### Plan
+## Accelerating Stages of the Roadmap to Revenue Journey
+### 1. Plan
 
 **Objective:** Understand the partner or customer's current state, strategic goals, and potential areas for Cloud innovation.
 
@@ -28,12 +28,17 @@ _A modular playbook to accelerate every stage of the Solution Journey Framework_
 - Draft discovery questions tailored to the partner or customer's domain.
 - Analyze public web content (e.g., partner/customer websites) to surface potential opportunity areas.
 
-🔹 Tools to Use:
-- Microsoft 365 Copilot **Researcher** agent
+🛠️ Tools to Use:
+- Copilot **Researcher** agent
+- Copilot **Analyst** agent
+
+📝 Prompts to Use:
+- _Researcher_: "Create a technical discovery prep brief for an upcoming meeting with [Partner Name], including architecture insights and industry signals.
+- _Analyst_: "From this partner skills assessment spreadsheet, identify technical gaps and suggest a learning roadmap. [Upload]"
 
 ---
 
-### Envision
+### 2. Envision
 
 **Objective:** Identify, shape, and prioritize AI use cases aligned to partner & customer goals.
 
@@ -45,14 +50,23 @@ _A modular playbook to accelerate every stage of the Solution Journey Framework_
 - Expand rough ideas into clearly defined use cases.
 - Score use cases by complexity, data requirements, or time-to-impact.
 
-🔹 Prompts to Use:
+🛠️ Tools to Use:
+- Microsoft 365 Copilot
+- AI Foundry Chat Playground
+
+📝 Prompts to Use:
 - [Use Case Ideation Prompts](discovery/1-use-case-ideation.md)
 - [Use Case Evaluation Prompts](discovery/2-use-case-evaluation.md)
-- If running a Discovery Cards Workshop for AI: [Discovery Cards Workshop Prompts](discovery/0-discovery-cards-workshop.md)
+- [Discovery Cards Workshop Prompts](discovery/0-discovery-cards-workshop.md) (for use in the AI Discovery Cards Workshop)
+
+🧰 Workshop Options:
+- **Innovation Workshop:** A structured workshop to identify and prioritize Cloud innovation opportunities.
+- **Discovery Cards Workshop:** A workshop using AI Discovery Cards to explore and prioritize use cases.
+- **Responsible AI Maturity Model Workshop:** An interactive deep dive into the Responsible AI Maturity Model to assess and determine a roadmap for responsible AI practices.
 
 ---
 
-### Architecture Design Session (ADS)
+### 3. Architecture Design Session (ADS)
 
 **Objective:** Collaboratively design a solution architecture with the partner or customer that aligns with the selected use case(s).
 
@@ -66,14 +80,18 @@ _A modular playbook to accelerate every stage of the Solution Journey Framework_
 - Recommend appropriate Azure services and technologies based on requirements.
 - Compare architecture options and trade-offs.
 
-🔹 Prompts to Use:
+🛠️ Tools to Use:
+- Microsoft 365 Copilot
+- AI Foundry Chat Playground
+
+📝 Prompts to Use:
 - [Requirements Prompts](rapid-prototyping/1-requirements.md)
 - [Architecture Design Prompts](delivery/architecture-design.md)
 - [Research Prompts](discovery/3-research.md)
 
 ---
 
-### Proof of Concept (POC)
+### 4. Proof of Concept (POC)
 
 **Objective:** Build and test a lightweight prototype to validate technical feasibility and demonstrate early value.
 
@@ -87,7 +105,11 @@ _A modular playbook to accelerate every stage of the Solution Journey Framework_
 - Create synthetic data or test datasets to support initial build phases.
 - Document findings, insights, and open questions automatically.
 
-🔹 Prompts to Use:
+🛠️ Tools to Use:
+- Microsoft 365 Copilot
+- AI Foundry Chat Playground
+
+📝 Prompts to Use:
 - [Data Generation Prompts](rapid-prototyping/2-data-generation.md)
 - [Code Scaffolding Prompts](rapid-prototyping/3a-code-scaffolding.md)
 - [Code Generation Prompts](rapid-prototyping/3b-code-generation.md)
@@ -95,7 +117,7 @@ _A modular playbook to accelerate every stage of the Solution Journey Framework_
 
 ---
 
-### Build
+### 5. Build
 
 **Objective:** Evolve the POC into a fuller solution with more complete features, integrations, and production-readiness.
 
@@ -109,14 +131,19 @@ _A modular playbook to accelerate every stage of the Solution Journey Framework_
 - Generate guidance on implementing best practices for security, observability, and other non-functional requirements.
 - Leverage AI tools to respond to specific coding challenges or questions during development.
 
-🔹 Tools to Use:
-- [Resources Prompts](discovery/4-resources.md)
-- Microsoft 365 Copilot **Researcher** agent
+🛠️ Tools to Use:
+- Microsoft 365 Copilot
+- AI Foundry Chat Playground
 - GitHub Copilot to support debugging sessions with partners or customers
+
+📝 Prompts to Use:
+- [Research Prompts](discovery/3-research.md) 
+- [Resources Prompts](discovery/4-resources.md)
+- _Copilot_: “Draft a solution implementation guide based on our POC notes. Include architecture summary, key components, and delivery considerations. [Upload notes or documents]”
 
 ---
 
-### Validate
+### 6. Offering Validation
 
 **Objective:** Assess the solution's architecture, implementation quality, and adherence to the Well-Architected Framework. Assess SI practices for capability and readiness to deliver customer solutions.
 
@@ -131,12 +158,18 @@ _A modular playbook to accelerate every stage of the Solution Journey Framework_
 - Draft validation reports that capture strengths, risks, and suggested remediations.
 - Assist with generating example test plans or security considerations for further validation.
 
-🔹 Tools to Use:
-- Microsoft 365 Copilot to support dynamically.
+🛠️ Tools to Use:
+- Copilot **Analyst** agent
+- Copilot **Researcher** agent
+
+📝 Prompts to Use:
+- _Analyst_: "Analyze this architecture document for gaps against the Well-Architected Framework and summarize key risks or opportunities. [Upload]"
+- _Researcher_: "Create a validation report for this solution architecture, including strengths, risks, and recommendations. Summarize Well-Architected Framework alignment gaps. [Upload]"
+
 
 ---
 
-### Publish
+### 7. Offering Commercialization
 
 **Objective:** Support partners (SDCs or SIs) in preparing and publishing their solutions or offers to Marketplace.
 
@@ -152,12 +185,16 @@ _A modular playbook to accelerate every stage of the Solution Journey Framework_
 - Generate starter FAQs, pricing guidance, or onboarding materials based on the solution's capabilities.
 - Review existing listings to suggest clarity or messaging improvements.
 
-🔹 Tools to Use:
-- Microsoft 365 Copilot to support dynamically.
+🛠️ Tools to Use:
+- Microsoft 365 Copilot
+
+📝 Prompts to Use:
+- "Create an Azure Marketplace-ready offer description and technical summary for this partner solution. [Provide solution details]"
+- "“Rewrite this README into a quick-start guide tailored for Azure Marketplace publication. [Provide README content]”
 
 ---
 
-### Co-Sell
+### 8. Offering Activation
 
 **Objective:** Support partners in positioning and selling their solutions to customers through Microsoft co-sell motions.
 
@@ -172,5 +209,10 @@ _A modular playbook to accelerate every stage of the Solution Journey Framework_
 - Create customer-ready assets (e.g., one-pagers, technical deep dives) to support meetings led by partners or Microsoft sellers.
 - Translate complex solution features into compelling customer narratives to reinforce your presence as a technical expert in joint calls.
 
-🔹 Prompts to Use:
+🛠️ Tools to Use:
+- Microsoft 365 Copilot
+- AI Foundry Chat Playground
+
+📝 Prompts to Use:
 - [Webinar Planning Prompts](delivery/webinar-planning.md)
+- _Copilot_: "Draft a technical deep dive presentation for a customer meeting on [Partner Solution]. Focus on key features, benefits, and integration points. [Upload solution details]"
