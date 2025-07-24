@@ -1,5 +1,6 @@
 # AI Engagement Guide for the Solution Journey Framework
 > **Purpose:** Provide a practical, plug-and-play guide for Partner Solution Architects (PSAs) to accelerate every phase of the Partner Solution Journey using GenAI. This guide highlights where to use your this repository's curated prompts and where to creatively apply GenAI to reduce time and effort across the journey.
+
 > **Audience:** Partner Solution Architects (PSAs) and other architects engaging with partners and customers.
 
 
