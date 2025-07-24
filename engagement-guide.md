@@ -31,11 +31,12 @@ _A modular playbook to accelerate every stage of the Roadmap to Revenue Journey_
 🛠️ Tools to Use:
 - Copilot **Researcher** agent
 - Copilot **Analyst** agent
+- Microsoft 365 Copilot
 
 📝 Prompts to Use:
 - _Researcher_: "Create a technical discovery prep brief for an upcoming meeting with [Partner Name], including architecture insights and industry signals.
-- _Analyst_: "From this partner skills assessment spreadsheet, identify technical gaps and suggest a learning roadmap. [Upload]"
-
+- _Analyst_: "From this partner skills assessment spreadsheet, identify technical gaps and suggest a learning roadmap for [Parner Name]. [Upload Assessment spreadsheet]"
+- _Copilot_: "Based on these notes about the partner, please draft a skilling guide for the partners's team with recommended learning paths and resources. [Upload PTS notes or other]"
 ---
 
 ### 2. Envision
