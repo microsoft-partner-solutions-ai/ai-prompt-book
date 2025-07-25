@@ -3,7 +3,10 @@
 This prompt library provides Microsoft architects and engineers with curated, high-impact prompts to accelerate the customer solution journey. The prompts are designed to support **Discovery**, **Rapid Prototyping**, and other **Delivery** phases along the solution journey, enabling faster ideation, clearer requirements, and more efficient build cycles.
 
 ## 🧭 How to Use
-1. **Browse Categories**: Navigate through [Discovery](discovery/), [Rapid Prototyping](rapid-prototyping/), or [Delivery](delivery/) based on your engagement stage.
+1. **Browse Categories**: Navigate through [Discovery](discovery/), [Rapid Prototyping](rapid-prototyping/), or [Delivery](delivery/) based on your engagement stage.  
+
+> NOTE! This project was originally designed to support Rapid Prototyping hands-on POCs, but has since expanded to include all phases of the "Roadmap to Revenue" model.  For delivering POCs quickly, focus on [Rapid Prototyping](rapid-prototyping/) prompts. For the full journey, please explore all categories and refer to the [Engagement Guide](engagement-guide.md) for guidance on how to tools and prompts effectively.
+
 2. **Copy & Customize Prompts**: Tailor prompts to your customer context. Use these as a jumpstart, combining with your own engineering and architecture expertise.
 
 ### For **AI Practitioners**:

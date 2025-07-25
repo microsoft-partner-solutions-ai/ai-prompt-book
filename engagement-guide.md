@@ -109,10 +109,11 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue Journey
 🛠️ Tools to Use:
 - Microsoft 365 Copilot
 - AI Foundry Chat Playground
+- GitHub Copilot
 
 📝 Prompts to Use:
 - [Data Generation Prompts](rapid-prototyping/2-data-generation.md)
-- [Code Scaffolding Prompts](rapid-prototyping/3a-code-scaffolding.md)
+- [Code Scaffolding Prompts](rapid-prototyping/3a-code-scaffolding.md) - Output scaffolding code to be used with GitHub Copilot for full implementation.
 - [Code Generation Prompts](rapid-prototyping/3b-code-generation.md)
 - [Insights Prompts](rapid-prototyping/4-insights-presentation.md)
 
