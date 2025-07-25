@@ -56,9 +56,9 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue Journey
 - AI Foundry Chat Playground
 
 📝 Prompts to Use:
-- [Use Case Ideation Prompts](discovery/1-use-case-ideation.md)
-- [Use Case Evaluation Prompts](discovery/2-use-case-evaluation.md)
-- [Discovery Cards Workshop Prompts](discovery/0-discovery-cards-workshop.md) (for use in the AI Discovery Cards Workshop)
+- [Use Case Ideation Prompts](discovery/1-use-case-ideation.md) - Identify customer business drivers or pain points and map them to use case opportunities.
+- [Use Case Evaluation Prompts](discovery/2-use-case-evaluation.md) - Evaluate proposed use cases for business value, feasibility, and alignment with customer goals.
+- [Discovery Cards Workshop Prompts](discovery/0-discovery-cards-workshop.md) (for use in the AI Discovery Cards Workshop to ideate AI use cases)
 
 🧰 Workshop Options:
 - **Innovation Workshop:** A structured workshop to identify and prioritize Cloud innovation opportunities.
@@ -86,9 +86,9 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue Journey
 - AI Foundry Chat Playground
 
 📝 Prompts to Use:
-- [Requirements Prompts](rapid-prototyping/1-requirements.md)
-- [Architecture Design Prompts](delivery/architecture-design.md)
-- [Research Prompts](discovery/3-research.md)
+- [Requirements Prompts](rapid-prototyping/1-requirements.md) - Translate high-level goals into actionable functional and technical requirements.
+- [Architecture Design Prompts](delivery/architecture-design.md) - Generate Azure architecture diagrams based on use cases and constraints.
+- [Research Prompts](discovery/3-research.md) - Perform background research to inform technical approaches and considerations.
 
 ---
 
@@ -144,8 +144,8 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue Journey
 - GitHub Copilot to support debugging sessions with partners or customers
 
 📝 Prompts to Use:
-- [Research Prompts](discovery/3-research.md) 
-- [Resources Prompts](discovery/4-resources.md)
+- [Research Prompts](discovery/3-research.md) - Perform background research to inform technical approaches and considerations.
+- [Resources Prompts](discovery/4-resources.md) - Retrieve relevant documentation, Microsoft guidance, and supporting materials to share with partners and customers.
 - _Copilot_: “Draft a solution implementation guide based on our POC notes. Include architecture summary, key components, and delivery considerations. [Upload notes or documents]”
 
 ---
@@ -221,5 +221,5 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue Journey
 - AI Foundry Chat Playground
 
 📝 Prompts to Use:
-- [Webinar Planning Prompts](delivery/webinar-planning.md)
+- [Webinar Planning Prompts](delivery/webinar-planning.md) - Create structured, engaging webinar content to support Co-Sell motions.
 - _Copilot_: "Draft a technical deep dive presentation for a customer meeting on [Partner Solution]. Focus on key features, benefits, and integration points. [Upload solution details]"
