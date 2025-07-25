@@ -112,14 +112,15 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue Journey
 - GitHub Copilot
 
 📝 Prompts to Use:
-- [Data Generation Prompts](rapid-prototyping/2-data-generation.md)
+- [Requirements Prompts](rapid-prototyping/1-requirements.md) - Define technical requirements for the POC based on the use case.
+- [Data Generation Prompts](rapid-prototyping/2-data-generation.md) - Generate synthetic data or test datasets to support initial build phases while customers locate or curate their data.
 - Coding Prompt Options:
   - [Code Scaffolding Prompts](rapid-prototyping/3a-code-scaffolding.md) - Generate code scaffolding for use with GitHub Copilot for implementation. This is recommended for complex POCs where you want to leverage GitHub Copilot to accelerate development.
   - [Code Generation Prompts](rapid-prototyping/3b-code-generation.md) - Generate code prototypes based on requirements and data to bring into VS Code for testing, debugging, and iteration. This is recommended for simpler POCs or when you want to quickly generate code without scaffolding.
   - Options for using these prompts:
     - _AI Foundry Chat Playground_: Use the system message and user prompt template to generate code scaffolds and prototypes based on requirements and data. Bring generated code into VS Code for testing, debugging, and additional iteration with GitHub Copilot.
     - _GitHub Copilot_: Use only the user prompt template within Agent mode. For best results, connect the MS Learn Docs MCP Server to VS Code folowing this information: [Connect to the Microsoft Learn Docs MCP Server](https://github.com/microsoftdocs/mcp) to provide GitHub Copilot with MS Learn content.
-- [Insights Prompts](rapid-prototyping/4-insights-presentation.md)
+- [Insights Prompts](rapid-prototyping/4-insights-presentation.md) - Extract learnings, summarize results, and define next steps from sprints into a customer presentation deck.
 
 ---
 
