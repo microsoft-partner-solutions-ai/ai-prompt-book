@@ -1,7 +1,7 @@
-# GenAI-Powered "Roadmap to Revenue" Guide for Architects  
-_A modular playbook to accelerate every stage of the "Roadmap to Revenue Journey"_
+# GenAI-Powered "Roadmap to Revenue" Solution Journey Guide 
+_A modular playbook to accelerate every stage of the "Roadmap to Revenue" solution journey._
 
-> **Purpose:** Provide a practical, plug-and-play guide for Partner Solution Architects (PSAs) to accelerate every stage of the "Roadmap to Revenue Journey" using GenAI. This guide highlights where to use your this repository's curated prompts and where to creatively apply GenAI to reduce time and effort across the journey.
+> **Purpose:** Provide a practical, plug-and-play guide for Partner Solution Architects (PSAs) to accelerate every stage of the "Roadmap to Revenue" solution journey using GenAI. This guide highlights where to use your this repository's curated prompts and where to creatively apply GenAI to reduce time and effort across the journey.
 
 > **Audience:** Partner Solution Architects (PSAs) and other architects engaging with partners and customers.
 
@@ -13,7 +13,7 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue Journey
 - **Flexible by design:** Not all steps apply in every engagement — tailor as needed while staying grounded in the Solution Journey Framework.
 
 
-## Accelerating Stages of the "Roadmap to Revenue Journey"
+## Accelerating Stages of the "Roadmap to Revenue" Solution Journey
 ### 1. Plan
 
 **Objective:** Understand the partner or customer's current state, strategic goals, and potential areas for Cloud innovation.
@@ -35,8 +35,8 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue Journey
 
 📝 Prompts to Use:
 - _Researcher_: "Create a technical discovery prep brief for an upcoming meeting with [Partner Name], including architecture insights and industry signals.
-- _Analyst_: "From this partner skills assessment spreadsheet, identify technical gaps and suggest a learning roadmap for [Parner Name]. [Upload Assessment spreadsheet]"
-- _Copilot_: "Based on these notes about the partner, please draft a skilling guide for the partners's team with recommended learning paths and resources. [Upload PTS notes or other]"
+- _Analyst_: "From this partner skills assessment spreadsheet, identify technical gaps and suggest a learning roadmap for [Partner Name]. [Upload Assessment spreadsheet]"
+- _Copilot_: "Based on these notes about the partner, please draft a skilling guide for the partner's team with recommended learning paths and resources. [Upload PTS notes or other]"
 ---
 
 ### 2. Envision
@@ -152,7 +152,7 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue Journey
 
 ### 6. Offering Validation
 
-**Objective:** Assess the solution's architecture, implementation quality, and adherence to the Well-Architected Framework. Assess SI practices for capability and readiness to deliver customer solutions.
+**Objective:** Assess the solution's architecture, implementation quality, and adherence to the Well-Architected Framework. Assess SI practices for capability and readiness to deliver customer solutions. Log TTA.
 
 ✅ Actions:
 - Evaluate whether the solution is well-architected, secure, and production-ready.
@@ -163,7 +163,6 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue Journey
 🧠 How to Use GenAI:
 - Use AI to help summarize complex architecture docs, identify missing patterns, or flag potential issues.
 - Draft validation reports that capture strengths, risks, and suggested remediations.
-- Assist with generating example test plans or security considerations for further validation.
 
 🛠️ Tools to Use:
 - Copilot **Analyst** agent
@@ -171,7 +170,7 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue Journey
 
 📝 Prompts to Use:
 - _Analyst_: "Analyze this architecture document for gaps against the Well-Architected Framework and summarize key risks or opportunities. [Upload]"
-- _Researcher_: "Create a validation report for this solution architecture, including strengths, risks, and recommendations. Summarize Well-Architected Framework alignment gaps. [Upload]"
+- _Researcher_: "Create a validation summary for this solution architecture, including strengths, risks, and recommendations. Summarize Well-Architected Framework alignment gaps. [Upload]"
 
 
 ---
