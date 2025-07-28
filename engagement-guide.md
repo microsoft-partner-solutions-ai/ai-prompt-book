@@ -27,6 +27,7 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue" soluti
 - Summarize lengthy documents (e.g., architecture overviews, emails, transcripts of previous calls that have been shared with you).
 - Draft discovery questions tailored to the partner or customer's domain.
 - Analyze public web content (e.g., partner/customer websites) to surface potential opportunity areas.
+- Leverage GenAI to do business research on your partner to help inform technical planning.
 
 🛠️ Tools to Use:
 - Copilot **Researcher** agent
@@ -37,6 +38,12 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue" soluti
 - _Researcher_: "Create a technical discovery prep brief for an upcoming meeting with [Partner Name], including architecture insights and industry signals.
 - _Analyst_: "From this partner skills assessment spreadsheet, identify technical gaps and suggest a learning roadmap for [Partner Name]. [Upload Assessment spreadsheet]"
 - _Copilot_: "Based on these notes about the partner, please draft a skilling guide for the partner's team with recommended learning paths and resources. [Upload PTS notes or other]"
+- 💡 Example prompts to uncover business context to give ideas for business drivers, plans, timelines, and potential innovation opportunities
+  - _Researcher_: Summarize [Partner Name's] strategic differentiation and industry expertise based on recent blog articles, LinkedIn posts, Azure Marketplace listings, and additional public web content you find.
+  - _Researcher_: What are the current industry trends for [Partner Name's] industry?
+  - _Researcher_: Summarize [Partner Name's] recent SEC filings and financial statements
+  - _Copilot_: Come up with sample prompts for me to help uncover more business context about [Partner Name] so that I can get a good idea of their business drivers, plans, timelines, or potential innovation opportunities.
+  
 ---
 
 ### 2. Envision
@@ -54,6 +61,8 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue" soluti
 🛠️ Tools to Use:
 - Microsoft 365 Copilot
 - AI Foundry Chat Playground
+- Copilot **Researcher** agent
+- Copilot **Analyst** agent
 
 📝 Prompts to Use:
 - [Use Case Ideation Prompts](discovery/1-use-case-ideation.md) - Identify customer business drivers or pain points and map them to use case opportunities.
@@ -94,7 +103,7 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue" soluti
 
 ### 4. Proof of Concept (POC)
 
-**Objective:** Build and test a lightweight prototype to validate technical feasibility and demonstrate early value.
+**Objective:** Build and test a rapid prototype to validate technical feasibility and demonstrate early value. This phase can be prepared in advance from the Microsoft side to show early value to the partner. 
 
 ✅ Actions:
 - Define success criteria and key functionality.
@@ -105,6 +114,7 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue" soluti
 - Generate code or code scaffolding for early POC components.
 - Create synthetic data or test datasets to support initial build phases.
 - Document findings, insights, and open questions automatically.
+- "Show your work": Describe to partner upon POC delivery how AI was leveraged throughout so that they can replicate themselves and with customers.
 
 🛠️ Tools to Use:
 - Microsoft 365 Copilot
@@ -144,8 +154,9 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue" soluti
 - GitHub Copilot to support debugging sessions with partners or customers
 
 📝 Prompts to Use:
-- [Research Prompts](discovery/3-research.md) - Perform background research to inform technical approaches and considerations.
+- [Research Prompts](discovery/3-research.md) - Perform background technical research to inform approaches and considerations.
 - [Resources Prompts](discovery/4-resources.md) - Retrieve relevant documentation, Microsoft guidance, and supporting materials to share with partners and customers.
+- _Copilot_: 💡Leverage **Copilot** to help inform your responses to partner questions over email or summarize Teams chats to give you more clarity.
 - _Copilot_: “Draft a solution implementation guide based on our POC notes. Include architecture summary, key components, and delivery considerations. [Upload notes or documents]”
 
 ---
@@ -155,10 +166,8 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue" soluti
 **Objective:** Assess the solution's architecture, implementation quality, and adherence to the Well-Architected Framework. Assess SI practices for capability and readiness to deliver customer solutions. Log TTA.
 
 ✅ Actions:
-- Evaluate whether the solution is well-architected, secure, and production-ready.
-- Review partner (SI or SDC) delivery practices, implementation quality, and adherence to best practices.
+- Evaluate whether the solution is well-architected and production-ready.
 - Identify risks, gaps, or areas that may require redesign before go-to-market or deployment.
-- Provide recommendations to improve scalability, reliability, or maintainability.
 
 🧠 How to Use GenAI:
 - Use AI to help summarize complex architecture docs, identify missing patterns, or flag potential issues.
