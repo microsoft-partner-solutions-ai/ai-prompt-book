@@ -1,6 +1,6 @@
-# AI Prompt Book for Architects & Engineers
+# AI Prompt Book for Architects
 
-This prompt library provides Microsoft architects and engineers with curated, high-impact prompts to accelerate the customer solution journey. The prompts are designed to support **Discovery**, **Rapid Prototyping**, and other **Delivery** phases along the solution journey, enabling faster ideation, clearer requirements, and more efficient build cycles.
+This prompt library provides Microsoft architects with curated, high-impact prompts to accelerate the customer solution journey. The prompts are designed to support **Discovery**, **Rapid Prototyping**, and other **Delivery** phases along the solution journey, enabling faster ideation, clearer requirements, and more efficient build cycles.
 
 ## 🧭 How to Use
 1. **Browse Categories**: Navigate through [Discovery](discovery/), [Rapid Prototyping](rapid-prototyping/), or [Delivery](delivery/) based on your engagement stage.  
