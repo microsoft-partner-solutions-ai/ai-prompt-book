@@ -5,7 +5,7 @@ This prompt library provides Microsoft architects and engineers with curated, hi
 ## 🧭 How to Use
 1. **Browse Categories**: Navigate through [Discovery](discovery/), [Rapid Prototyping](rapid-prototyping/), or [Delivery](delivery/) based on your engagement stage.  
 
-> NOTE! This project was originally designed to support Rapid Prototyping hands-on POCs, but has since expanded to include all phases of the "Roadmap to Revenue" model.  For delivering POCs quickly, focus on [Rapid Prototyping](rapid-prototyping/) prompts. For the full journey, please explore all categories and refer to the [Engagement Guide](engagement-guide.md) for guidance on how to tools and prompts effectively.
+> Note: This project was originally designed to support Rapid Prototyping hands-on POCs, but has since expanded to include all phases of the "Roadmap to Revenue" solution journey.  For delivering POCs quickly, focus on [Rapid Prototyping](rapid-prototyping/) prompts. For the full journey, please explore all categories and refer to the [Engagement Guide](engagement-guide.md) for guidance on how to tools and prompts effectively.
 
 2. **Copy & Customize Prompts**: Tailor prompts to your customer context. Use these as a jumpstart, combining with your own engineering and architecture expertise.
 

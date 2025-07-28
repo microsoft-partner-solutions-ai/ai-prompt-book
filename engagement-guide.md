@@ -5,6 +5,7 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue" soluti
 
 > **Audience:** Partner Solution Architects (PSAs) and other architects engaging with partners and customers.
 
+> Note: This guide expands upon the AI Prompt Book to enable Customer-Zero adoption of AI throughout the "Roadmap to Revenue" solution journey. Please refer to the [README](README.md) for AI Prompt Book documentation.
 
 ## How to Use This Guide
 
