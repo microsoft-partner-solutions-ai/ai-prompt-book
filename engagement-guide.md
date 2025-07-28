@@ -39,7 +39,7 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue" soluti
 - _Researcher_: "Create a technical discovery prep brief for an upcoming meeting with [Partner Name], including architecture insights and industry signals.
 - _Analyst_: "From this partner skills assessment spreadsheet, identify technical gaps and suggest a learning roadmap for [Partner Name]. [Upload Assessment spreadsheet]"
 - _Copilot_: "Based on these notes about the partner, please draft a skilling guide for the partner's team with recommended learning paths and resources. [Upload PTS notes or other]"
-- 💡 Example prompts to uncover business context to give ideas for business drivers, plans, timelines, and potential innovation opportunities
+- 💡 _Sample prompts_ to uncover business context to give ideas for business drivers, plans, timelines, and potential innovation opportunities
   - _Researcher_: Summarize [Partner Name's] strategic differentiation and industry expertise based on recent blog articles, LinkedIn posts, Azure Marketplace listings, and additional public web content you find.
   - _Researcher_: What are the current industry trends for [Partner Name's] industry?
   - _Researcher_: Summarize [Partner Name's] recent SEC filings and financial statements
@@ -157,8 +157,9 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue" soluti
 📝 Prompts to Use:
 - [Research Prompts](discovery/3-research.md) - Perform background technical research to inform approaches and considerations.
 - [Resources Prompts](discovery/4-resources.md) - Retrieve relevant documentation, Microsoft guidance, and supporting materials to share with partners and customers.
-- _Copilot_: 💡Leverage **Copilot** to help inform your responses to partner questions over email or summarize Teams chats to give you more clarity.
 - _Copilot_: “Draft a solution implementation guide based on our POC notes. Include architecture summary, key components, and delivery considerations. [Upload notes or documents]”
+- 💡Leverage **Copilot** to help inform your responses to partner questions over email or summarize Teams chats to give you more clarity.
+- 💡Leverage **GitHub Copilot** to help you guide real-time debugging sessions with partners.
 
 ---
 
