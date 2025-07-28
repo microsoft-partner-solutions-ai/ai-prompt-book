@@ -1,14 +1,14 @@
 # GenAI-Powered "Roadmap to Revenue" Solution Journey Guide 
 _A modular playbook to accelerate every stage of the "Roadmap to Revenue" solution journey._
 
-> **Purpose:** Provide a practical, plug-and-play guide for Partner Solution Architects (PSAs) to accelerate every stage of the "Roadmap to Revenue" solution journey using GenAI. This guide highlights where to use your this repository's curated prompts and where to creatively apply GenAI to reduce time and effort across the journey.
+> **Purpose:** Provide a practical, plug-and-play guide for Partner Solution Architects (PSAs) to accelerate every stage of the "Roadmap to Revenue" solution journey using GenAI. This guide highlights where to use your this repository's curated prompts and where to creatively apply GenAI to reduce time and effort across the journey as a Frontier PSA.
 
 > **Audience:** Partner Solution Architects (PSAs) and other architects engaging with partners and customers.
 
 
 ## How to Use This Guide
 
-- **Accelerate with GenAI:** Use this guide to identify where AI tools can reduce manual effort and speed up delivery.
+- **Accelerate with GenAI:** Use this guide to identify where AI tools can support you as a Frontier PSA in reducing manual effort and speeding up delivery.
 - **Plug and play:** Use the repository's curated prompts when available, and supplement with additional recommended GenAI tooling elsewhere.
 - **Flexible by design:** Not all steps apply in every engagement — tailor as needed while staying grounded in the Solution Journey Framework.
 
