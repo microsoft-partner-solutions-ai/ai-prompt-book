@@ -1,4 +1,4 @@
-# GenAI-Powered "Roadmap to Revenue" Solution Journey Guide 
+# GenAI-Powered Engagement Guide 
 _A modular playbook to accelerate every stage of the "Roadmap to Revenue" solution journey._
 
 > **Purpose:** Provide a practical, plug-and-play guide for Partner Solution Architects (PSAs) to accelerate every stage of the "Roadmap to Revenue" solution journey using GenAI. This guide highlights where to use your this repository's curated prompts and where to creatively apply GenAI to reduce time and effort across the journey as a Frontier PSA.
