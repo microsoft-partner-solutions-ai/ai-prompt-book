@@ -14,9 +14,7 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue" soluti
 - **Flexible by design:** Not all steps apply in every engagement — tailor as needed while staying grounded in the Solution Journey Framework.
 
 
-| Plan | Envision | Architecture Design Session (ADS) | Proof of Concept (POC) | Build | Offering Validation | Offering Commercialization | Offering Activation |
-|------|----------|------------------------------------|-------------------------|-------|----------------------|-----------------------------|----------------------|
-| -**Researcher** agent <br> - Copilot **Analyst** agent <br> - Microsoft 365 Copilot <br> - [Prompts to Use](#1-plan) | - Microsoft 365 Copilot <br> - AI Foundry Chat Playground <br> -**Researcher** agent <br> - Copilot **Analyst** agent <br> - [Prompts to Use](#-1.-Plan) | - Microsoft 365 Copilot <br> - AI Foundry Chat Playground <br> - [Prompts to Use](#-1.-Plan)  | -GitHub Copilot <br> - Microsoft 365 Copilot <br> - AI Foundry Chat Playground <br> - [Prompts to Use](#-1.-Plan) | -GitHub Copilot <br> - Microsoft 365 Copilot <br> - AI Foundry Chat Playground <br> - [Prompts to Use](#-1.-Plan)  | -**Researcher** agent <br> - Copilot **Analyst** agent <br> - [Prompts to Use](#-1.-Plan) | - Microsoft 365 Copilot <br> - [Prompts to Use](#-1.-Plan) | - AI Foundry Chat Playground <br> - Microsoft 365 Copilot <br> - [Prompts to Use](#-1.-Plan) |
+![Solution Journey Visual](images/solution_journey.png)
 
 
 
