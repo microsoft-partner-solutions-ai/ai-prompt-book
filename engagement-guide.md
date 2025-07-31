@@ -36,17 +36,18 @@ Many of these prompts have been built into [Architect](https://aka.ms/architecta
 🛠️ Tools to Use:
 - Copilot **Researcher** agent
 - Copilot **Analyst** agent
+- Copilot [**Architect**](https://aka.ms/architectagent) agent
 - Microsoft 365 Copilot
 
 📝 Prompts to Use:
 - _Researcher_: "Create a technical discovery prep brief for an upcoming meeting with [Partner Name], including architecture insights and industry signals.
 - _Analyst_: "From this partner skills assessment spreadsheet, identify technical gaps and suggest a learning roadmap for [Partner Name]. [Upload Assessment spreadsheet]"
-- _Copilot_: "Based on these notes about the partner, please draft a skilling guide for the partner's team with recommended learning paths and resources. [Upload PTS notes or other]"
+- _Architect_: "Based on these notes about the partner, please draft a skilling guide for the partner's team with recommended learning paths and resources. [Upload PTS notes or other]"
 - 💡 _Sample prompts_ to uncover business context to give ideas for business drivers, plans, timelines, and potential innovation opportunities
   - _Researcher_: Summarize [Partner Name's] strategic differentiation and industry expertise based on recent blog articles, LinkedIn posts, Azure Marketplace listings, and additional public web content you find.
   - _Researcher_: What are the current industry trends for [Partner Name's] industry?
   - _Researcher_: Summarize [Partner Name's] recent SEC filings and financial statements
-  - _Copilot_: Come up with sample prompts for me to help uncover more business context about [Partner Name] so that I can get a good idea of their business drivers, plans, timelines, or potential innovation opportunities.
+  - _Copilot_: Come up with sample AI prompts for me to help uncover more business context about [Partner Name] so that I can get a good idea of their business drivers, plans, timelines, or potential innovation opportunities.
   
 ---
 
@@ -67,6 +68,7 @@ Many of these prompts have been built into [Architect](https://aka.ms/architecta
 - AI Foundry Chat Playground
 - Copilot **Researcher** agent
 - Copilot **Analyst** agent
+- Copilot [**Architect**](https://aka.ms/architectagent) agent
 
 📝 Prompts to Use:
 - [Use Case Ideation Prompts](prompts/discovery/1-use-case-ideation.md) - Identify customer business drivers or pain points and map them to use case opportunities.
@@ -97,6 +99,7 @@ Many of these prompts have been built into [Architect](https://aka.ms/architecta
 🛠️ Tools to Use:
 - Microsoft 365 Copilot
 - AI Foundry Chat Playground
+- Copilot [**Architect**](https://aka.ms/architectagent) agent
 
 📝 Prompts to Use:
 - [Requirements Prompts](prompts/rapid-prototyping/1-requirements.md) - Translate high-level goals into actionable functional and technical requirements.
@@ -124,6 +127,7 @@ Many of these prompts have been built into [Architect](https://aka.ms/architecta
 - Microsoft 365 Copilot
 - AI Foundry Chat Playground
 - GitHub Copilot
+- Copilot [**Architect**](https://aka.ms/architectagent) agent
 
 📝 Prompts to Use:
 - [Requirements Prompts](prompts/rapid-prototyping/1-requirements.md) - Define technical requirements for the POC based on the use case.
@@ -156,6 +160,7 @@ Many of these prompts have been built into [Architect](https://aka.ms/architecta
 - Microsoft 365 Copilot
 - AI Foundry Chat Playground
 - GitHub Copilot to support debugging sessions with partners or customers
+- Copilot [**Architect**](https://aka.ms/architectagent) agent
 
 📝 Prompts to Use:
 - [Research Prompts](prompts/discovery/3-research.md) - Perform background technical research to inform approaches and considerations.
@@ -232,6 +237,7 @@ Many of these prompts have been built into [Architect](https://aka.ms/architecta
 🛠️ Tools to Use:
 - Microsoft 365 Copilot
 - AI Foundry Chat Playground
+- Copilot [**Architect**](https://aka.ms/architectagent) agent
 
 📝 Prompts to Use:
 - [Webinar Planning Prompts](prompts/delivery/webinar-planning.md) - Create structured, engaging webinar content to support Co-Sell motions.
