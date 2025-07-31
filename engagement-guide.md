@@ -48,7 +48,7 @@ Many of these prompts have been built into [Architect](https://aka.ms/architecta
   - _Researcher_: What are the current industry trends for [Partner Name's] industry?
   - _Researcher_: Summarize [Partner Name's] recent SEC filings and financial statements
   - _Copilot_: Come up with sample AI prompts for me to help uncover more business context about [Partner Name] so that I can get a good idea of their business drivers, plans, timelines, or potential innovation opportunities.
-  
+
 ---
 
 ### 2. Envision
@@ -165,7 +165,7 @@ Many of these prompts have been built into [Architect](https://aka.ms/architecta
 📝 Prompts to Use:
 - [Research Prompts](prompts/discovery/3-research.md) - Perform background technical research to inform approaches and considerations.
 - [Resources Prompts](prompts/discovery/4-resources.md) - Retrieve relevant documentation, Microsoft guidance, and supporting materials to share with partners and customers.
-- _Copilot_: “Draft a solution implementation guide based on our POC notes. Include architecture summary, key components, and delivery considerations. [Upload notes or documents]”
+- _Architect_: “Draft a solution implementation guide based on our POC notes. Include architecture summary, key components, and delivery considerations. [Upload notes or documents]”
 - 💡Leverage **Copilot** to help inform your responses to partner questions over email or summarize Teams chats to give you more clarity.
 - 💡Leverage **GitHub Copilot** to help you guide real-time debugging sessions with partners.
 
@@ -241,4 +241,4 @@ Many of these prompts have been built into [Architect](https://aka.ms/architecta
 
 📝 Prompts to Use:
 - [Webinar Planning Prompts](prompts/delivery/webinar-planning.md) - Create structured, engaging webinar content to support Co-Sell motions.
-- _Copilot_: "Draft a technical deep dive presentation for a customer meeting on [Partner Solution]. Focus on key features, benefits, and integration points. [Upload solution details]"
+- _Architect_: "Draft a technical deep dive presentation for a customer meeting on [Partner Solution]. Focus on key features, benefits, and integration points."
