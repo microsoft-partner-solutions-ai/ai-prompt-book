@@ -15,9 +15,12 @@ This prompt library provides Microsoft architects with curated, high-impact prom
     - Use the **System Messages** found in this repository for your model system message, and select **Apply changes**. 
     - Customize the **User Prompt Templates** provided to enter into the chat session. Reference the **Example Usage** prompts as samples on what details to provide.
 
-### For **anyone**:
+### For **Anyone**:
 3. **Leverage Microsoft 365 Copilot**:
     - Combine the **System Message** with the filled out **User Prompt Template** to create a robust prompt for Microsoft 365 Copilot.
+
+### 💡 Bonus tip!
+These prompts have been built into [Architect](https://aka.ms/architectagent), a Copilot agent that you can use today! Use the agent for less manual typing and effort, or use the prompts directly for more configurability.
 
 ## 📁 Prompt Categories
 
