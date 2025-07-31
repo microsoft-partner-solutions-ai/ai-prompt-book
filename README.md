@@ -20,7 +20,7 @@ This prompt library provides Microsoft architects with curated, high-impact prom
     - Combine the **System Message** with the filled out **User Prompt Template** to create a robust prompt for Microsoft 365 Copilot.
 
 ### 💡 Bonus tip!
-These prompts have been built into [Architect](https://aka.ms/architectagent), a Copilot agent that you can use today! Use the agent for less manual typing and effort, or use the prompts directly for more configurability.
+Many of these prompts have been built into [Architect](https://aka.ms/architectagent), a Copilot agent that you can use today! Use the agent for less manual typing and effort, or use the prompts directly for more configurability.
 
 ## 📁 Prompt Categories
 
