@@ -12,11 +12,10 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue" soluti
 - **Accelerate with GenAI:** Use this guide to identify where AI tools can support you as a Frontier PSA in reducing manual effort and speeding up delivery.
 - **Plug and play:** Use the repository's curated prompts when available, and supplement with additional recommended GenAI tooling elsewhere.
 - **Flexible by design:** Not all steps apply in every engagement — tailor as needed while staying grounded in the Solution Journey Framework.
-
+- 💡 **Bonus tip!**
+Many of these prompts have been built into [Architect](https://aka.ms/architectagent), a Copilot agent that you can use today! Use the agent for less manual typing and effort, or use the prompts directly for more configurability.
 
 ![Solution Journey Visual](images/solution_journey.png)
-
-
 
 ## Accelerating Stages of the "Roadmap to Revenue" Solution Journey
 ### 1. Plan
