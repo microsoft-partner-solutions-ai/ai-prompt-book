@@ -70,9 +70,9 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue" soluti
 - Copilot **Analyst** agent
 
 📝 Prompts to Use:
-- [Use Case Ideation Prompts](discovery/1-use-case-ideation.md) - Identify customer business drivers or pain points and map them to use case opportunities.
-- [Use Case Evaluation Prompts](discovery/2-use-case-evaluation.md) - Evaluate proposed use cases for business value, feasibility, and alignment with customer goals.
-- [Discovery Cards Workshop Prompts](discovery/0-discovery-cards-workshop.md) (for use in the AI Discovery Cards Workshop to ideate AI use cases)
+- [Use Case Ideation Prompts](prompts/discovery/1-use-case-ideation.md) - Identify customer business drivers or pain points and map them to use case opportunities.
+- [Use Case Evaluation Prompts](prompts/discovery/2-use-case-evaluation.md) - Evaluate proposed use cases for business value, feasibility, and alignment with customer goals.
+- [Discovery Cards Workshop Prompts](prompts/discovery/0-discovery-cards-workshop.md) (for use in the AI Discovery Cards Workshop to ideate AI use cases)
 
 🧰 Workshop Options:
 - **Innovation Workshop:** A structured workshop to identify and prioritize Cloud innovation opportunities.
@@ -100,9 +100,9 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue" soluti
 - AI Foundry Chat Playground
 
 📝 Prompts to Use:
-- [Requirements Prompts](rapid-prototyping/1-requirements.md) - Translate high-level goals into actionable functional and technical requirements.
-- [Architecture Design Prompts](delivery/architecture-design.md) - Generate Azure architecture diagrams based on use cases and constraints.
-- [Research Prompts](discovery/3-research.md) - Perform background research to inform technical approaches and considerations.
+- [Requirements Prompts](prompts/rapid-prototyping/1-requirements.md) - Translate high-level goals into actionable functional and technical requirements.
+- [Architecture Design Prompts](prompts/delivery/architecture-design.md) - Generate Azure architecture diagrams based on use cases and constraints.
+- [Research Prompts](prompts/discovery/3-research.md) - Perform background research to inform technical approaches and considerations.
 
 ---
 
@@ -127,15 +127,15 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue" soluti
 - GitHub Copilot
 
 📝 Prompts to Use:
-- [Requirements Prompts](rapid-prototyping/1-requirements.md) - Define technical requirements for the POC based on the use case.
-- [Data Generation Prompts](rapid-prototyping/2-data-generation.md) - Generate synthetic data or test datasets to support initial build phases while customers locate or curate their data.
+- [Requirements Prompts](prompts/rapid-prototyping/1-requirements.md) - Define technical requirements for the POC based on the use case.
+- [Data Generation Prompts](prompts/rapid-prototyping/2-data-generation.md) - Generate synthetic data or test datasets to support initial build phases while customers locate or curate their data.
 - Coding Prompt Options:
-  - [Code Scaffolding Prompts](rapid-prototyping/3a-code-scaffolding.md) - Generate code scaffolding for use with GitHub Copilot for implementation. This is recommended for complex POCs where you want to leverage GitHub Copilot to accelerate development.
-  - [Code Generation Prompts](rapid-prototyping/3b-code-generation.md) - Generate code prototypes based on requirements and data to bring into VS Code for testing, debugging, and iteration. This is recommended for simpler POCs or when you want to quickly generate code without scaffolding.
+  - [Code Scaffolding Prompts](prompts/rapid-prototyping/3a-code-scaffolding.md) - Generate code scaffolding for use with GitHub Copilot for implementation. This is recommended for complex POCs where you want to leverage GitHub Copilot to accelerate development.
+  - [Code Generation Prompts](prompts/rapid-prototyping/3b-code-generation.md) - Generate code prototypes based on requirements and data to bring into VS Code for testing, debugging, and iteration. This is recommended for simpler POCs or when you want to quickly generate code without scaffolding.
   - Options for using these prompts:
     - _AI Foundry Chat Playground_: Use the system message and user prompt template to generate code scaffolds and prototypes based on requirements and data. Bring generated code into VS Code for testing, debugging, and additional iteration with GitHub Copilot.
     - _GitHub Copilot_: Use only the user prompt template within Agent mode. For best results, connect the MS Learn Docs MCP Server to VS Code folowing this information: [Connect to the Microsoft Learn Docs MCP Server](https://github.com/microsoftdocs/mcp) to provide GitHub Copilot with MS Learn content.
-- [Insights Prompts](rapid-prototyping/4-insights-presentation.md) - Extract learnings, summarize results, and define next steps from sprints into a customer presentation deck.
+- [Insights Prompts](prompts/rapid-prototyping/4-insights-presentation.md) - Extract learnings, summarize results, and define next steps from sprints into a customer presentation deck.
 
 ---
 
@@ -159,8 +159,8 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue" soluti
 - GitHub Copilot to support debugging sessions with partners or customers
 
 📝 Prompts to Use:
-- [Research Prompts](discovery/3-research.md) - Perform background technical research to inform approaches and considerations.
-- [Resources Prompts](discovery/4-resources.md) - Retrieve relevant documentation, Microsoft guidance, and supporting materials to share with partners and customers.
+- [Research Prompts](prompts/discovery/3-research.md) - Perform background technical research to inform approaches and considerations.
+- [Resources Prompts](prompts/discovery/4-resources.md) - Retrieve relevant documentation, Microsoft guidance, and supporting materials to share with partners and customers.
 - _Copilot_: “Draft a solution implementation guide based on our POC notes. Include architecture summary, key components, and delivery considerations. [Upload notes or documents]”
 - 💡Leverage **Copilot** to help inform your responses to partner questions over email or summarize Teams chats to give you more clarity.
 - 💡Leverage **GitHub Copilot** to help you guide real-time debugging sessions with partners.
@@ -235,5 +235,5 @@ _A modular playbook to accelerate every stage of the "Roadmap to Revenue" soluti
 - AI Foundry Chat Playground
 
 📝 Prompts to Use:
-- [Webinar Planning Prompts](delivery/webinar-planning.md) - Create structured, engaging webinar content to support Co-Sell motions.
+- [Webinar Planning Prompts](prompts/delivery/webinar-planning.md) - Create structured, engaging webinar content to support Co-Sell motions.
 - _Copilot_: "Draft a technical deep dive presentation for a customer meeting on [Partner Solution]. Focus on key features, benefits, and integration points. [Upload solution details]"

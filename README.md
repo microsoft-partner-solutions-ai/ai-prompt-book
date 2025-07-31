@@ -3,9 +3,9 @@
 This prompt library provides Microsoft architects with curated, high-impact prompts to accelerate the customer solution journey. The prompts are designed to support **Discovery**, **Rapid Prototyping**, and other **Delivery** phases along the solution journey, enabling faster ideation, clearer requirements, and more efficient build cycles.
 
 ## 🧭 How to Use
-1. **Browse Categories**: Navigate through [Discovery](discovery/), [Rapid Prototyping](rapid-prototyping/), or [Delivery](delivery/) based on your engagement stage.  
+1. **Browse Categories**: Navigate through the [Prompts](prompts/) directory based on your engagement stage.
 
-> Note: This project was originally designed to support Rapid Prototyping hands-on POCs, but has since expanded to include all phases of the "Roadmap to Revenue" solution journey.  For delivering POCs quickly, focus on [Rapid Prototyping](rapid-prototyping/) prompts. For the full journey, please explore all categories and refer to the [Engagement Guide](engagement-guide.md) for guidance on how to tools and prompts effectively.
+> Note: This project was originally designed to support Rapid Prototyping hands-on POCs, but has since expanded to include all phases of the "Roadmap to Revenue" solution journey.  For delivering POCs quickly, focus on [Rapid Prototyping](prompts/rapid-prototyping/) prompts. For the full journey, please explore all categories and refer to the [Engagement Guide](engagement-guide.md) for guidance on how to tools and prompts effectively.
 
 2. **Copy & Customize Prompts**: Tailor prompts to your customer context. Use these as a jumpstart, combining with your own engineering and architecture expertise.
 
@@ -24,24 +24,24 @@ This prompt library provides Microsoft architects with curated, high-impact prom
 ### 🔍 Discovery
 Use these prompts during early-stage engagements to explore opportunities, assess feasibility, and gather context.
 
-- [**Use Case Ideation**](discovery/1-use-case-ideation.md): Identify customer business drivers or pain points and map them to use case opportunities.
-- [**Use Case Evaluation**](discovery/2-use-case-evaluation.md): Evaluate proposed use cases for business value, feasibility, and alignment with customer goals.
-- [**Research**](discovery/3-research.md): Perform background research to inform technical approaches and considerations.
-- [**Resources**](discovery/4-resources.md): Retrieve relevant documentation, Microsoft guidance, and supporting materials to share with customers.
+- [**Use Case Ideation**](prompts/discovery/1-use-case-ideation.md): Identify customer business drivers or pain points and map them to use case opportunities.
+- [**Use Case Evaluation**](prompts/discovery/2-use-case-evaluation.md): Evaluate proposed use cases for business value, feasibility, and alignment with customer goals.
+- [**Research**](prompts/discovery/3-research.md): Perform background research to inform technical approaches and considerations.
+- [**Resources**](prompts/discovery/4-resources.md): Retrieve relevant documentation, Microsoft guidance, and supporting materials to share with customers.
 
 ### ⚡ Rapid Prototyping 
 Use these prompts to quickly move from ideation to working prototypes and proof-of-concepts.
 
-- [**Requirements**](rapid-prototyping/1-requirements.md): Translate high-level goals into actionable functional and technical requirements.
-- [**Data Generation**](rapid-prototyping/2-data-generation.md): Create synthetic data or test datasets to support initial build phases while customers locate or curate their data.
-- [**Code Scaffolding**](rapid-prototyping/3a-code-scaffolding.md) (Option A): Accelerate development with code scaffolding for use with GitHub Copilot for implementation.
-- [**Code Generation**](rapid-prototyping/3b-code-generation.md) (Option B): Generate code prototypes based on requirements and data, ready for testing, debugging, and iteration.
-- [**Insights**](rapid-prototyping/4-insights-presentation.md): Extract learnings, summarize results, and define next steps from sprints into a customer presentation deck.
+- [**Requirements**](prompts/rapid-prototyping/1-requirements.md): Translate high-level goals into actionable functional and technical requirements.
+- [**Data Generation**](prompts/rapid-prototyping/2-data-generation.md): Create synthetic data or test datasets to support initial build phases while customers locate or curate their data.
+- [**Code Scaffolding**](prompts/rapid-prototyping/3a-code-scaffolding.md) (Option A): Accelerate development with code scaffolding for use with GitHub Copilot for implementation.
+- [**Code Generation**](prompts/rapid-prototyping/3b-code-generation.md) (Option B): Generate code prototypes based on requirements and data, ready for testing, debugging, and iteration.
+- [**Insights**](prompts/rapid-prototyping/4-insights-presentation.md): Extract learnings, summarize results, and define next steps from sprints into a customer presentation deck.
 
 ### 🚚 Delivery
 Use these prompts to support delivering other phases of the solution journey, not captured within Discovery or Rapid Prototyping.
-- [**Architecture Design**](delivery/architecture-design.md): Generate Azure architecture diagrams based on use cases and constraints.
-- [**Webinar Planning**](delivery/webinar-planning.md): Create structured, engaging webinar content to support Co-Sell motions.
+- [**Architecture Design**](prompts/delivery/architecture-design.md): Generate Azure architecture diagrams based on use cases and constraints.
+- [**Webinar Planning**](prompts/delivery/webinar-planning.md): Create structured, engaging webinar content to support Co-Sell motions.
 
 
 ### Disclaimer
