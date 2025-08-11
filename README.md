@@ -46,6 +46,10 @@ Use these prompts to support delivering other phases of the solution journey, no
 - [**Architecture Design**](prompts/delivery/architecture-design.md): Generate Azure architecture diagrams based on use cases and constraints.
 - [**Webinar Planning**](prompts/delivery/webinar-planning.md): Create structured, engaging webinar content to support Co-Sell motions.
 
+### 💻 GitHub Copilot
+Use these prompts within GitHub Copilot in the context of a repository to enable faster delivery.
+- [**App Modernization**](prompts/github-copilot/app-modernization.md): Generate scoring and validation prompts for App Modernization and Migration workloads.
+- More prompts to be added for additional workloads soon!
 
 ### Disclaimer
 This library is intended for internal Microsoft use and experimentation. Prompts require context and responsible use in line with Microsoft's [Responsible AI Standard](https://www.microsoft.com/ai/responsible-ai). Outputs require human validation, testing, and code debugging.
