@@ -49,7 +49,7 @@ Use these prompts to support delivering other phases of the solution journey, no
 ### 💻 GitHub Copilot
 Use these prompts within GitHub Copilot in the context of a repository to enable faster delivery.
 - [**App Modernization**](prompts/github-copilot/app-modernization.md): Generate scoring and validation prompts for App Modernization and Migration workloads.
-- More prompts to be added for additional workloads soon!
+- [**Awesome Copilot Repository**](https://github.com/github/awesome-copilot/blob/main/README.md): Additional GitHub Copilot prompts for various workloads.
 
 ### Disclaimer
 This library is intended for internal Microsoft use and experimentation. Prompts require context and responsible use in line with Microsoft's [Responsible AI Standard](https://www.microsoft.com/ai/responsible-ai). Outputs require human validation, testing, and code debugging.
