@@ -28,6 +28,7 @@ Use the following as guidance:
 The solution should be for Microsoft Azure.  When creating the proposed solution, we are only interested in an Azure Solution.  No other cloud provider should be considered.
 
 The information about the project is below:
+
 Project Name: {{Company: Project}}
 
 Company Website: {{website}}
