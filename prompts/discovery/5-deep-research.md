@@ -1,5 +1,5 @@
 ## Research 
-Prompts to perform deep holistic research to prep for a partner engagement.
+Prompt to perform deep holistic technical and business research to prep for a partner engagement.
 
 Special thanks to Bob Jacobs for contributing this prompt.
 
