@@ -4,7 +4,7 @@ Prompts to help identify relevant Discovery Cards when preparing to lead a Disco
 Special thanks to Walter Novoa for developing this prompt to facilitate Discovery Cards Workshop preparation.
 
 ### Recommended Model:
-gpt-4.1
+gpt-5
 
 ### System Message:
 

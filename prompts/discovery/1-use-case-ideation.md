@@ -2,7 +2,7 @@
 Prompts to identify customer business drivers or pain points and map them to use case opportunities.
 
 ### Recommended Model:
-gpt-4.1
+gpt-5
 
 ### System Message:
 ```text

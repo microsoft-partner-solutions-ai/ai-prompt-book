@@ -2,7 +2,7 @@
 Prompts to evaluate proposed use cases for business value, feasibility, and alignment with customer goals.
 
 ### Recommended Model:
-gpt-4.1
+gpt-5
 
 ### System Message:
 ```text

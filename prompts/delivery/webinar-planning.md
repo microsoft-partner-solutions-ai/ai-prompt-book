@@ -2,7 +2,7 @@
 Prompts to support solution architects and partners in creating structured, engaging webinar content.
 
 ### Recommended Model:
-gpt-4.1
+gpt-5
 
 ### System Message:
 ```text

@@ -2,7 +2,7 @@
 Prompts to perform background research to inform technical approaches and considerations.
 
 ### Recommended Model:
-gpt-4.1
+gpt-5
 
 ### System Message:
 ```text

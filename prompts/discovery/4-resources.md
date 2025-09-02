@@ -2,7 +2,7 @@
 Prompts to retrieve relevant documentation, Microsoft guidance, and supporting materials to share with customers.
 
 ### Recommended Model:
-gpt-4.1
+gpt-5
 
 ### System Message:
 ```text

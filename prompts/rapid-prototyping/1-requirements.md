@@ -2,7 +2,7 @@
 Prompts to translate high-level goals into actionable functional and technical requirements.
 
 ### Recommended Model: 
-gpt-4.1
+gpt-5
 
 ### System Message:
 ```text

@@ -2,7 +2,7 @@
 Prompts to generate code prototypes based on requirements and data, ready for testing, debugging, and iteration.
 
 ### Recommended Model: 
-o3
+GitHub Copilot Claude Sonnet 4 or GPT-5
 
 ### System Message:
 ```text

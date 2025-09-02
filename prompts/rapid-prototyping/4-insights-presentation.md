@@ -2,7 +2,7 @@
 Prompts to extract learnings, summarize results, and define next steps from sprints into a customer presentation deck.
 
 ### Recommended Model: 
-gpt-4.1
+gpt-5
 
 ### System Message:
 ```text
