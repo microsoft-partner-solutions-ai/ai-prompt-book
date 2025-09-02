@@ -1,6 +1,8 @@
 ## Discovery Cards Workshop
 Prompts to help identify relevant Discovery Cards when preparing to lead a Discovery Cards Workshop with customers or partners.
 
+Special thanks to Walter Novoa for developing this prompt to facilitate Discovery Cards Workshop preparation.
+
 ### Recommended Model:
 gpt-4.1
 
@@ -1210,5 +1212,3 @@ Please determine which cards are most relevant to prioritize during the workshop
 ```text
 Please determine which cards are most relevant to prioritize during the workshop given the following information: The customer is a healthcare organization looking to improve patient outcomes through data analysis and AI-driven insights.
 ```
-
-Special thanks to Walter Novoa for developing this system message to facilitate Discovery Cards Workshop preparation.
