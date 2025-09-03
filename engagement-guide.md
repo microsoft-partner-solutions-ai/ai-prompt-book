@@ -40,7 +40,7 @@ Many of these prompts have been built into [Architect](https://aka.ms/architecta
 - Microsoft 365 Copilot
 
 📝 Prompts to Use:
-- _Researcher_: [Deep Research Prompt](prompts/discovery/5-deep-research.md) - Identify customer business drivers or pain points and map them to use case opportunities.
+- _Researcher_: [Deep Research Prompt](prompts/discovery/5-deep-research.md) - Conduct holistic business and technical deep research on a partner or customer to prepare a research briefing for your review before engagement.
 - _Researcher_: "Create a technical discovery prep brief for an upcoming meeting with [Partner Name], including architecture insights and industry signals.
 - _Analyst_: "From this partner skills assessment spreadsheet, identify technical gaps and suggest a learning roadmap for [Partner Name]. [Upload Assessment spreadsheet]"
 - _Architect_: "Based on these notes about the partner, please draft a skilling guide for the partner's team with recommended learning paths and resources. [Upload PTS notes or other]"

@@ -31,7 +31,7 @@ Use these prompts during early-stage engagements to explore opportunities, asses
 - [**Use Case Evaluation**](prompts/discovery/2-use-case-evaluation.md): Evaluate proposed use cases for business value, feasibility, and alignment with customer goals.
 - [**Research**](prompts/discovery/3-research.md): Perform background research to inform technical approaches and considerations.
 - [**Resources**](prompts/discovery/4-resources.md): Retrieve relevant documentation, Microsoft guidance, and supporting materials to share with customers.
-- [**Deep Research](prompts/discovery/5-deep-research.md): Conduct holistic business and technical deep research on a partner or customer to prepare for engagement.
+- [**Deep Research**](prompts/discovery/5-deep-research.md): Conduct holistic business and technical deep research on a partner or customer to prepare for engagement.
 
 
 ### ⚡ Rapid Prototyping 
